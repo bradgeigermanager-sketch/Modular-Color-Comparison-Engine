@@ -1,0 +1,17 @@
+{
+  "Manifest_ID": "SIS_DISCREPANCY_LOG_001",
+  "Timestamp": "2026-06-13T15:13:40Z",
+  "Event_Type": "FORENSIC_REVIEW_REQUIRED",
+  "Data_Payload": {
+    "raw_input": "STRING",
+    "canonical_match_attempt": "STRING",
+    "integrity_score": "FLOAT",
+    "metadata": {
+      "origin_sensor_id": "STRING",
+      "geo_reference": "LAT_LONG_COORD",
+      "system_state_snapshot": "JSON_OBJ"
+    },
+    "investigative_notes": "NULL"
+  }
+}
+
