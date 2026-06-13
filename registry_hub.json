@@ -1,0 +1,18 @@
+{
+  "SIS_Component": "Registry_Hub",
+  "Schema": "Fillable-Form-Map",
+  "Version": "1.0",
+  "Target_Nodes": [
+    {"ID": "CSS_Canonical", "Location": "SIS_Quad_Hub_Alpha"},
+    {"ID": "Forensic_Historical", "Location": "SIS_Quad_Hub_Beta"}
+  ],
+  "Data_Template": {
+    "hex": "HEX_STRING",
+    "name": "CSS_STANDARD_ID",
+    "metadata": {
+      "last_validated": "TIMESTAMP",
+      "source_integrity": "FLOAT"
+    }
+  }
+}
+
